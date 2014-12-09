@@ -35,6 +35,7 @@ set number
 set ruler
 set showcmd
 syntax enable
+
 set background=dark
 colorscheme solarized
 "hi CursorLine cterm=NONE ctermbg=green ctermfg=NONE guibg=NONE guifg=NONE
