@@ -27,6 +27,7 @@ Bundle 'tpope/vim-rails'
 Bundle 'taglist.vim'
 "Bundle 'garbas/vim-snipmate'
 Bundle 'SirVer/ultisnips'
+Bundle 'vimwiki/vimwiki'
   let g:UltiSnipsExpandTrigger="<tab>"
   let g:UltiSnipsJumpForwardTrigger="<tab>"
   let g:UltiSnipsJumpBackwardTrigger="<c-z>"
